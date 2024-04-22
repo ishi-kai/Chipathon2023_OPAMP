@@ -6,7 +6,7 @@ We, [ISHI-KAI](https://ishi-kai.org/), are a community that promotes open source
 This time, we brought together eight novice semiconductor designers (most of whom were new to semiconductor design), each of whom created an analog circuit, such as an Inverter or OPAmp made using xschem & klayout with P-Cells .  
 It will then be a group application that combines them into one layout.  
 
-- ![all_members_layout](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenGFMPW-1/blob/main/images/all_members_layout.jpg)
+- ![all_members_layout](./images/layout_size.jpg)
 - ![all_members_layout_using](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenGFMPW-1/blob/main/images/all_members_layout_using.jpg)
 
 ## How do you run an analog circuit on the OpenMPW GF-1?
